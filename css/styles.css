@@ -123,12 +123,3 @@ p{
 .contact-message{
   margin: 40px auto 60px;
 }
-.Bild:hover{
-  transform: scale(1.1);
-	-webkit-transform: scale(1.1);
-	-moz-transform: scale(1.1);
-	-o-transform: scale(1.1);
-}
-.Bild{
-	transition: all .2s ease-in-out;
-}
