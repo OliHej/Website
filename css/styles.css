@@ -129,3 +129,6 @@ p{
 	-moz-transform: scale(1.1);
 	-o-transform: scale(1.1);
 }
+.Bild{
+	transition: all .2s ease-in-out;
+}
